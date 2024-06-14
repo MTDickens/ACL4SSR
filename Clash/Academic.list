@@ -7,10 +7,10 @@ DOMAIN-SUFFIX,originlab.com
 # 内容：Scholar 国内外学术网站
 # 数量：76条
 # https://github.com/ACL4SSR/ACL4SSR/blob/master/Clash/Ruleset/Scholar.list
-DOMAIN-SUFFIX,acm.org
+# DOMAIN-SUFFIX,acm.org
 DOMAIN-SUFFIX,acs.org
 DOMAIN-SUFFIX,aip.org
-DOMAIN-SUFFIX,ams.org
+# DOMAIN-SUFFIX,ams.org
 DOMAIN-SUFFIX,annualreviews.org
 DOMAIN-SUFFIX,aps.org
 DOMAIN-SUFFIX,ascelibrary.org
@@ -74,7 +74,7 @@ DOMAIN-SUFFIX,spiedigitallibrary.org
 DOMAIN-SUFFIX,springer.com
 DOMAIN-SUFFIX,springerlink.com
 DOMAIN-SUFFIX,tandfonline.com
-DOMAIN-SUFFIX,un.org
+# DOMAIN-SUFFIX,un.org
 DOMAIN-SUFFIX,uni-bielefeld.de
 DOMAIN-SUFFIX,wanfangdata.com
 DOMAIN-SUFFIX,webofknowledge.com
