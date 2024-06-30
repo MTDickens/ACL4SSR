@@ -64,7 +64,7 @@ DOMAIN-SUFFIX,readcube.com
 DOMAIN-SUFFIX,researchgate.net
 DOMAIN-SUFFIX,rsc.org
 DOMAIN-SUFFIX,sagepub.com
-DOMAIN-SUFFIX,sci-hub.tw
+# DOMAIN-SUFFIX,sci-hub.tw
 # DOMAIN-SUFFIX,sciencedirect.com # For connection issues
 DOMAIN-SUFFIX,sciencemag.org
 DOMAIN-SUFFIX,scitation.org
