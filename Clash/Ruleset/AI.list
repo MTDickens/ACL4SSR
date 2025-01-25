@@ -19,3 +19,6 @@ DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,gemini.google.com
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,copilot.microsoft.com
+DOMAIN-SUFFIX,deepseek.com
+DOMAIN-SUFFIX,notebooklm.google
+DOMAIN-SUFFIX,aistudio.google.com
